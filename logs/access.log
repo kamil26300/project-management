@@ -21,3 +21,7 @@
 ::1 - - [25/Dec/2024:20:05:47 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 200 230007 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"
 ::1 - - [25/Dec/2024:20:05:47 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 200 1426050 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"
 ::1 - - [25/Dec/2024:20:05:47 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 200 628 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"
+::1 - - [26/Dec/2024:19:46:54 +0000] "POST /api/projects HTTP/1.1" 201 8 "-" "PostmanRuntime/7.43.0"
+::1 - - [26/Dec/2024:19:47:12 +0000] "POST /api/projects HTTP/1.1" 201 8 "-" "PostmanRuntime/7.43.0"
+::1 - - [26/Dec/2024:19:47:23 +0000] "POST /api/projects HTTP/1.1" 201 8 "-" "PostmanRuntime/7.43.0"
+::1 - - [26/Dec/2024:19:48:23 +0000] "GET /api/projects?start_date=2024-03-01&end_date=2024-05-31 HTTP/1.1" 200 358 "-" "PostmanRuntime/7.43.0"
